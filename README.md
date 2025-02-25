@@ -1,7 +1,5 @@
 # CS470: Full Stack Development II
 
-![AWS Cloud Architecture](https://www.capgemini.com/wp-content/uploads/2020/06/Public-cloud-platform.png)
-
 ## Course Overview
 
 This repository documents my journey through CS470 Full Stack Development II, where I transformed a traditional MEAN stack application into a cloud-native serverless architecture on AWS.
